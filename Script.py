@@ -319,7 +319,7 @@ BOT WORKING PROPERLY THANKS sks 🔥"""
  ❏ 100$  ➠    𝟶𝟼 Month
  ❏ 190$  ➠    𝟷𝟸 Month
 
-Usdt Trc20 address ➩ <code>TCxuhzuBEpH1jFSpo3P2SDc4Q52aCfhMsL</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+Usdt Trc20 address ➩ <code>TQ66Vz9PUSu3vMRb5vfVmiJmFbSwyuQ92C</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
 
 For Indian Users
 
@@ -328,11 +328,11 @@ For Indian Users
  ❏ 400₹   ➠    𝟶𝟼 Month
  ❏ 900₹   ➠    𝟷𝟸 Month
 
-🆔 ᴜᴘɪ ɪᴅ ➩ <code>nitishsehrawat0807@oksbi</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+🆔 ᴜᴘɪ ɪᴅ ➩ <code>business157@ybl</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
 
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
-🏷️ <a href='https://t.me/Kalmoviesking'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/SAN_245'>ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
@@ -437,5 +437,5 @@ For Indian Users
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer -
 
--Dev [Owner of this bot ]<a href="https://t.me/Kalmoviesking">Kal</a>
+-Dev [Owner of this bot ]<a href="https://t.me/SAN_245">sks</a>
 """
