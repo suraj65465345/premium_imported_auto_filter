@@ -198,7 +198,7 @@ async def start(client, message):
                     btn.append([InlineKeyboardButton("↻ Tʀʏ Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
             await client.send_message(
                 chat_id=message.from_user.id,
-                text="**ᴊᴏɪɴ "ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ" &  "ꜱᴇᴄᴏɴᴅ ᴄʜᴀɴɴᴇʟ" ᴀꜰᴛᴇʀ ᴛʜᴀᴛ ᴄʟɪᴄᴋ ᴏɴ "ᴛʀʏ ᴀɢᴀɪɴ" ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ꜰɪʟᴇ...✅**",
+                text="**Join 'First Channel' and 'Second Channel' after that click on 'Try Again' then you will get your movie file...✅**",
                 reply_markup=InlineKeyboardMarkup(btn),
                 parse_mode=enums.ParseMode.MARKDOWN
                 )
