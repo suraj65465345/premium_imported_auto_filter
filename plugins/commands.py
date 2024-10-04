@@ -185,7 +185,7 @@ async def start(client, message):
                  logger.error("Mᴀᴋᴇ sᴜʀᴇ Bᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ Fᴏʀᴄᴇsᴜʙ ᴄʜᴀɴɴᴇʟ")
                  return
             btn = [[
-                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://t.me/Binance_Moonbix_bot/start?startApp=ref_5277442733&startapp=ref_5277442733&utm_medium=web_share_copy')
+                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://t.me/tonxdao_bot?start=ref_5277442733')
             ],[
                 InlineKeyboardButton("ꜱᴇᴄᴏɴᴅ ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link)
             ]]
