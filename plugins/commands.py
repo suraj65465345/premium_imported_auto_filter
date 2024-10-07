@@ -185,7 +185,7 @@ async def start(client, message):
                  logger.error("Mᴀᴋᴇ sᴜʀᴇ Bᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ Fᴏʀᴄᴇsᴜʙ ᴄʜᴀɴɴᴇʟ")
                  return
             btn = [[
-                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://t.me/tonxdao_bot?start=ref_5277442733')
+                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://t.me/cherrygame_io_bot/game?startapp=r_5277442733')
             ],[
                 InlineKeyboardButton("ꜱᴇᴄᴏɴᴅ ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link)
             ]]
