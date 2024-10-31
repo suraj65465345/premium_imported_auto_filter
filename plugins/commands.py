@@ -185,7 +185,7 @@ async def start(client, message):
                  logger.error("Mᴀᴋᴇ sᴜʀᴇ Bᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ Fᴏʀᴄᴇsᴜʙ ᴄʜᴀɴɴᴇʟ")
                  return
             btn = [[
-                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://t.me/major/start?startapp=5277442733')
+                InlineKeyboardButton("ꜰɪʀꜱᴛ ᴄʜᴀɴɴᴇʟ", url='https://youtube.com/@user-dx9pi1fl7g?si=j9QsZHAu3EQjgBm1')
             ],[
                 InlineKeyboardButton("ꜱᴇᴄᴏɴᴅ ᴄʜᴀɴɴᴇʟ", url=invite_link.invite_link)
             ]]
